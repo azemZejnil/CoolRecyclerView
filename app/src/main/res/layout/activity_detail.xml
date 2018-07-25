@@ -18,6 +18,7 @@
     <TextView
         android:id="@+id/lbl_date_and_time_header"
         style="@style/Text.Primary"
+        android:textColor="#fff"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_above="@+id/lbl_message_body"
@@ -40,6 +41,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@+id/div_center"
+        android:textColor="#000"
         android:padding="16dp"
         android:transitionName="@string/transition_message"
         tools:text="Check out content like Fragmented Podcast to expose yourself to the knowledge, ideas, and opinions of experts in your field" />

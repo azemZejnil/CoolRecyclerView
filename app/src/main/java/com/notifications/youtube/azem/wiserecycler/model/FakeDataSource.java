@@ -30,9 +30,9 @@ public class FakeDataSource implements DataSourceInterface {
 
     private final int[] drawables = {
             R.drawable.green_drawable,
-            R.drawable.red_drawable,
-            R.drawable.blue_drawable,
-            R.drawable.yellow_drawable
+            R.drawable.grey_drawable,
+            R.drawable.black_drawable,
+            R.drawable.brown_drawable
     };
 
     public FakeDataSource() {

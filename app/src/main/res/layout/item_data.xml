@@ -17,7 +17,7 @@
         android:layout_marginTop="16dp"
         android:layout_marginLeft="16dp"
         android:alpha=".86"
-        tools:src="@drawable/blue_drawable"
+        tools:src="@drawable/brown_drawable"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"
         android:layout_marginBottom="16dp"
