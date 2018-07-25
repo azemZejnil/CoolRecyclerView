@@ -55,26 +55,6 @@ public class ControllerTest {
 
     }
 
-    // @Test
-    // public void onGetListDataUnsuccessful() {
-    /**************************
-     *
-     * Unit Test Homework:
-     *
-     * Implement the "View", so that when we don't recieve a List, it shows some kind of
-     * error message to the user. This is common practice that you should learn!
-     *
-     * I've written some hints you'll have to decipher into Java code:
-     *************************/
-    //1 Set up your Mock dataSource
-
-    //2 Call the method you wish to test on the Controller
-
-    //3 Verify that the View has been told to show a message (I'd suggest showing a Toast for now)
-
-    //Profit???
-
-    // }
 
 
     @Test
